@@ -1,0 +1,26 @@
+body{
+    background: rgb(147, 147, 150);
+    font: normal 15pt arial;
+}
+header{
+    color: white;
+    text-align: center;
+
+}
+section{
+    background: white;
+    border-radius: 10px;
+    padding: 15px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 10px 10px 15px black;
+}
+select#caixasel{
+    width: 150px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
